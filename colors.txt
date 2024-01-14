@@ -1,7 +1,5 @@
 red
-orange
 yellow
-green
 blue
-indigo
 violet
+I love the rainbows!
